@@ -12,4 +12,5 @@
 
 ## Usage
 `spongebob-test hello world!`
+
 `HeLlO WoRlD!`
