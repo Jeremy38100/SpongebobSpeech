@@ -1,0 +1,25 @@
+{
+  "name": "spongebob-speech",
+  "version": "1.0.0",
+  "description": "Spongebob speech CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremy38100/SpongebobSpeech.git"
+  },
+  "keywords": [
+    "CLI",
+    "Spongebob",
+    "meme"
+  ],
+  "bin": "./index.js",
+  "author": "Jeremy38100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeremy38100/SpongebobSpeech/issues"
+  },
+  "homepage": "https://github.com/Jeremy38100/SpongebobSpeech#readme"
+}
