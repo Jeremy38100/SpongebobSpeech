@@ -7,7 +7,6 @@
 
 # SpongebobSpeech
 
-
 ## Installation
 `npm i -g spongebob-speech`
 
