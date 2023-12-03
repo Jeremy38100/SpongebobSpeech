@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/npm/v/spongebob-speech.svg)](https://www.npmjs.com/package/spongebob-speech)
 
 <p align="center">
-<img src="https://usatftw.files.wordpress.com/2017/05/spongebob.jpg?w=1000&h=600&crop=1" width="318px" alt="Strapi logo" />
+<img src="https://ftw.usatoday.com/wp-content/uploads/sites/90/2017/05/spongebob.jpg?w=1000&h=600&crop=1" width="318px" alt="Strapi logo" />
 </p>
 
 # SpongebobSpeech
@@ -16,4 +16,4 @@
 
 ## Usage
 `spongebob-speech hello world!`
-`spongebob-speech "text with 'signle quote'"`
+`spongebob-speech "text with 'single quote'"`
